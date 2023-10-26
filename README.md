@@ -18,3 +18,5 @@ __FrontDesk:__ The facade class that coordinates interactions between the client
 __HotelApp:__ The client class that uses the FrontDesk facade to access and utilize hotel services seamlessly.
 
 # UML Class Diagram
+
+![FacadeDP](https://github.com/JamesManalili/FacadeDesignPattern/assets/142465145/25a93efe-6708-4cfe-8cc1-b5218e57e4f0)
