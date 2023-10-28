@@ -1,7 +1,7 @@
 package LabFDP;
 public class FrontDesk {
     private Valet valet = new Valet();
-    private HouseKeeping houseKeeping = new Housekeeping ();
+    private HouseKeeping houseKeeping = new HouseKeeping ();
     private Cart cart = new Cart();
 
     public void ValetService(String plateNumber) {
